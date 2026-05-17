@@ -1,0 +1,5 @@
+
+.venv/
+cat > .gitignore << 'EOF'
+
+.venv/
