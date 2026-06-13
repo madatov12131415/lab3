@@ -1,0 +1,21 @@
+{
+  "before_update": {
+    "packages_count": 3151,
+    "vulnerabilities_count": 1863,
+    "inventory_file": "result_task_4_before.json",
+    "sbom_file": "before_bom.cdx.json",
+    "scan_file": "before_scan.json"
+  },
+  "after_update": {
+    "packages_count": 3151,
+    "vulnerabilities_count": 1863,
+    "inventory_file": "result_task_4_after.json",
+    "sbom_file": "after_bom.cdx.json",
+    "scan_file": "after_scan.json"
+  },
+  "comparison": {
+    "packages_changed": false,
+    "vulnerabilities_changed": false,
+    "analysis": "After the system update, the number of packages and detected vulnerabilities remained unchanged. The update did not affect the packages detected by the inventory and vulnerability scanning process."
+  }
+}
